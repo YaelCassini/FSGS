@@ -13,8 +13,8 @@ dependencies:
   - torchvision=0.13.1
   - tqdm
   - pip:
-    - submodules/diff-gaussian-rasterization-confidence
-    - submodules/simple-knn
+    # - submodules/diff-gaussian-rasterization-confidence
+    # - submodules/simple-knn
     - matplotlib==3.5.3
     - torchmetrics==1.2.0
     - timm==0.9.12
